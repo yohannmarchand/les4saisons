@@ -14,11 +14,6 @@
       "beginAt": { "month": 9, "day": 23 },
       "endAt": { "month": 12, "day": 20 }
     },
-
-
-
-
-    
     "winter": {
       "name": "Winter",
       "icon": "❄️",
