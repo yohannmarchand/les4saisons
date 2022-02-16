@@ -1,12 +1,17 @@
-## Script
+# WebFlix
 
-###Format
+Exercice 3 :\
+[les4saisons](https://github.com/yohannmarchand/webflix)
+
+# Script
+
+## Format
 
 ```shell
 yarn format
 ```
 
-###Lint
+## Lint
 ````shell
 yarn lint
 ````
